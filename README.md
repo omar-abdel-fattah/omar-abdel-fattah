@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Adel AHmed
+- 👋 Hi, I’m Omar Adel Ahmed
 - 👀 I’m interested in Embedded System Design and any programming language
 - 🌱 I’m currently learning Mechatronics Engineering in ASU Egypt and I am working on improving myself in the Embedded programming field
 - 💞️ I’m looking to collaborate on any big and effective programming project that will boost my skills in this field
